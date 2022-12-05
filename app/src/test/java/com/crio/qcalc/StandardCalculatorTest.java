@@ -32,5 +32,5 @@ public class StandardCalculatorTest {
         Assertions.assertEquals(0, actualResult);
     }
 
-
+    
 }
