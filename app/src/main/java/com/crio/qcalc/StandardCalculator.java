@@ -6,9 +6,4 @@ public class StandardCalculator {
         System.out.println("Standard Calculator 1.0");
     }
 
-
-
-
-
-
 }
