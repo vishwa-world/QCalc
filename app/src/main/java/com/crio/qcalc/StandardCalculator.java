@@ -3,8 +3,7 @@ package com.crio.qcalc;
 
 
 public class StandardCalculator {
-
-
+     
    protected double result;
 
 
@@ -13,6 +12,7 @@ public class StandardCalculator {
        return result;
 
    }
+
 
    public void printResult(){
       System.out.println("Standard Calculator Result:"+ result);
@@ -84,8 +84,7 @@ public class StandardCalculator {
       this.result = result;
    }   
    
-
-
+   
+}
 // other arithmetic operation methods
 
-}
