@@ -17,7 +17,14 @@ public class App {
        calc.printResult();
        
 
-   }
 
+
+       LogicCalculator calcu = new LogicCalculator();
+
+       calcu.AND(8, 6);
+       
+       calcu.printResult();
+       
+   }
 
 }
